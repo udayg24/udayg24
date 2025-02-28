@@ -1,14 +1,6 @@
 <h1 align="center">Hi, I'm Uday</h1>
 
-i code iOS apps now.
-
-## Connect with me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/udaygajera) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/udaygajera24)
-
-### Stats:
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=udayg24&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+i code iOS apps now and some other stuff.
 
 <!--
 **udayg24/udayg24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
