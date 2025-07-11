@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Uday</h1>
 
-i code iOS apps now and some other stuff.
+i code iOS apps and some AI stuff.
 
 <!--
 **udayg24/udayg24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
